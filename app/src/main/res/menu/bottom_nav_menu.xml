@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/displayAll"
+        android:title="display all"
+        android:icon="@drawable/ic_display_all"/>
+    <item
+        android:id="@+id/notificationSetting"
+        android:title="notification setting"
+        android:icon="@drawable/ic_notification_setting"/>
+</menu>
